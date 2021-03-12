@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 知识记录
+
 <!--
 **laomu1988/laomu1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
