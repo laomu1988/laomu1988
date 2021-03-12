@@ -1,4 +1,6 @@
-1. case执行失败时，执行指定代码
+# jest
+
+1. jest case执行失败时，执行指定代码
 ```js
 // 参考 https://stackoverflow.com/questions/48388206/how-to-run-function-when-any-test-fails-jest
 jasmine.getEnv().addReporter( {
